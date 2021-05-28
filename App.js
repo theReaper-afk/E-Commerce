@@ -79,4 +79,4 @@ const styles = StyleSheet.create({
     padding: 8,
     margin: 13.
   }
-});
+});    
