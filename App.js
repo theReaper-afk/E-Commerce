@@ -20,7 +20,7 @@ if (!firebase.apps.length) {
 const Stack = createStackNavigator();
 
 const MyStack = () => {
-
+       
   return (
       <Stack.Navigator>
         <Stack.Screen  
