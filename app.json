@@ -2,6 +2,7 @@
   "expo": {
     "name": "project2",
     "slug": "project2",
+    "scheme": "project2",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -13,6 +14,9 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
+    "facebookScheme": "fb3018859261659325", 
+    "facebookAppId" : "3018859261659325",
+    "facebookDisplayName":"E-Commerce",
     "assetBundlePatterns": [
       "**/*"
     ],
