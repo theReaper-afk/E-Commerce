@@ -23,7 +23,7 @@ const MyStack = () => {
 
   return (
       <Stack.Navigator>
-        <Stack.Screen
+        <Stack.Screen  
           name="Signin"
           component={SignIn}
           options={{ title: 'Sign in',  header: () => null }}
