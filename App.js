@@ -10,9 +10,9 @@ import SignIn from './Screens/SignIn';
 import HomeScreens from './TabScreens/HomeScreen';
 import Tabs from './Navigation/Tabs';
 
-
-
-
+       
+    
+          
 if (!firebase.apps.length) {
   firebase.initializeApp(firebaseConfig);
 }
@@ -20,7 +20,7 @@ if (!firebase.apps.length) {
 const Stack = createStackNavigator();
 
 const MyStack = () => {
-       
+                 
   return (
       <Stack.Navigator>
         <Stack.Screen  
